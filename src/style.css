@@ -1,0 +1,18 @@
+h1, p {
+  font-family: Lato;
+}
+.betterview{
+  border:2px solid ;
+  margin: 5px;
+  padding: 10px;
+}
+.card-body{
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-style: oblique;
+}
+.card{
+  height: 100%;
+}
+
